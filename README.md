@@ -1,4 +1,4 @@
-# Classic Car House - Webapp
+# Classic Car House - Server
 ### [Live Site](https://classic-car-house.web.app/)
 ### [Server Site](https://lit-tundra-83694.herokuapp.com/)
 
